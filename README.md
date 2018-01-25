@@ -10,4 +10,4 @@ Then set the server to listen on port specified.
 $ npm start
 ```
 
-By default, it run on localhost:8080.
+By default, it runs on localhost:8080.
